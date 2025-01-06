@@ -1,4 +1,4 @@
-                                                                                      -----Autism Detection Using Machine Learning-----
+## Autism Detection Using Machine Learning
 
 This project demonstrates how machine learning can be used to detect autism risk in children. Autism Spectrum Disorder (ASD) is a developmental disorder that affects communication, social interaction, and behavior. Early detection of autism can help children receive the necessary intervention and support, leading to better outcomes. 
 
